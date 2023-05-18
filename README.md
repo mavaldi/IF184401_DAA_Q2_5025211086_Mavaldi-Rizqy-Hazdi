@@ -23,7 +23,7 @@ GREEN = (0, 255, 0)
 RED = (255, 0, 0)
 ```
 Import libraries and define constants:
--	Import the required libraries: pygame for creating the graphical interface and random for generating random numbers.
+-	Import the required libraries: `pygame` for creating the graphical interface and `random` for generating random numbers.
 -	Define the maze dimensions (`WIDTH`, `HEIGHT`, `CELL_SIZE`) and window size (`WINDOW_SIZE`).
 -	Define color constants (`WHITE`, `BLACK`, `GREEN`, `RED`) for drawing the maze and solution.
 
